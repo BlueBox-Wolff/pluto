@@ -1,5 +1,5 @@
 library pluto;
 
-export 'src/date_util.class.dart';
-export "src/string_utils.dart";
+export 'src/util/date_utils.class.dart';
+export 'src/util/string_utils.dart';
 export 'src/type_wrapper.dart';
