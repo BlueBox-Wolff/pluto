@@ -1,3 +1,5 @@
+![Flutter CI](https://github.com/BlueBox-Wolff/pluto/workflows/Flutter%20CI/badge.svg)
+
 # pluto
 
 Collection of flutter utils
